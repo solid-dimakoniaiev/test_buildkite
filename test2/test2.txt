@@ -3,3 +3,4 @@ My test 2
 1
 durotar
 TRTY
+[skip ci]
